@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/blocs\/bloc_question.png",
+ "imageheight":93,
+ "imagewidth":62,
+ "margin":0,
+ "name":"bloc_question",
+ "spacing":0,
+ "tilecount":2,
+ "tiledversion":"1.2.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.2
+}

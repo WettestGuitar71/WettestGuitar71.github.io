@@ -1,0 +1,19 @@
+{ "columns":1,
+ "image":"..\/personnages\/mario.png",
+ "imageheight":36,
+ "imagewidth":27,
+ "margin":0,
+ "name":"mario",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"mario",
+         "tile":0
+        }],
+ "tilecount":1,
+ "tiledversion":"1.2.3",
+ "tileheight":36,
+ "tilewidth":27,
+ "type":"tileset",
+ "version":1.2
+}

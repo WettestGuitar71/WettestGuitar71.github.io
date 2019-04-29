@@ -1,0 +1,19 @@
+{ "columns":1,
+ "image":"..\/ennemie\/Koopa.png",
+ "imageheight":50,
+ "imagewidth":31,
+ "margin":0,
+ "name":"Koopa",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"koopa",
+         "tile":0
+        }],
+ "tilecount":2,
+ "tiledversion":"1.2.3",
+ "tileheight":25,
+ "tilewidth":31,
+ "type":"tileset",
+ "version":1.2
+}

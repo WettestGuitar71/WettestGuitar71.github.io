@@ -1,0 +1,19 @@
+{ "columns":1,
+ "image":"..\/ennemie\/Goomba.png",
+ "imageheight":62,
+ "imagewidth":31,
+ "margin":0,
+ "name":"Goomba",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"goomba",
+         "tile":0
+        }],
+ "tilecount":2,
+ "tiledversion":"1.2.3",
+ "tileheight":31,
+ "tilewidth":31,
+ "type":"tileset",
+ "version":1.2
+}

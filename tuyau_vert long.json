@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/blocs\/tuyau_vert long.png",
+ "imageheight":58,
+ "imagewidth":62,
+ "margin":0,
+ "name":"tuyau_vert long",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.2.3",
+ "tileheight":32,
+ "tilewidth":62,
+ "type":"tileset",
+ "version":1.2
+}
